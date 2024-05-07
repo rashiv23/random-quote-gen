@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 The Deployed Website Link (https://rashiv23.github.io/random-quote-gen/)
+This is a group project made in teams of 3.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
